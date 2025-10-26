@@ -1,4 +1,4 @@
-# hello, i'm aaryn aka 10x7x
+# hello, i'm aaryn
 ## a lazy dev that makes discord bots and sometimes websites
 <div align="center">
   <img src="https://count.getloli.com/@:iarguealot1?name=%3Aiarguealot&theme=asoul&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="blah" />
